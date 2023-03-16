@@ -25,4 +25,12 @@ npm start
 
 ## Node version
 
-This code has been tested with Node 18.x
+This code has been tested with Node.js 18.x
+
+## Browsers
+
+This code has been verified to reproduce the layout correctly on the following browsers:
+
+- Safari (16.3)
+- Brave (v1.49.120)
+- Firefox (111.0)
