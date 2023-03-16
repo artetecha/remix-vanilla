@@ -10,7 +10,7 @@ The main requirement for this exercise was to make use of Canonical's very own [
 
 ## Tech used
 
-This exercise is using: 
+This exercise makes use of: 
 
 - [Vanilla Framework](https://vanillaframework.io/)
 - [Remix](https://remix.run/)
