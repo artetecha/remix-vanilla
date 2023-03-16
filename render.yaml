@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: next-js
+    name: remix-vanilla
     env: node
     plan: starter
     buildCommand: npm i; npm run build
