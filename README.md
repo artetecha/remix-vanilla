@@ -6,7 +6,7 @@ The exercise was to reproduce the three-card layout found (as I write) on the [h
 
 ## Requirements
 
-The only requirement for this exercise was to make us of Canonical's very own [Vanilla Framework](https://vanillaframework.io/).
+The main requirement for this exercise was to make us of Canonical's very own [Vanilla Framework](https://vanillaframework.io/).
 
 ## Tech used
 
