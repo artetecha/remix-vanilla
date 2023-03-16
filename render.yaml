@@ -2,10 +2,13 @@ services:
   - type: web
     name: remix-vanilla
     env: node
-    plan: starter
-    buildCommand: npm install && npm run build
+    plan: free
+    buildCommand:  npm ci --production=false && npm run build
     startCommand: npm start
     autoDeploy: true
+    healthCheckPath: /healthcheck
     envVars:
-      - key: NODE_ENV
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: NODE_ENV # required so NODE_ENV is set in build env
         value: production
