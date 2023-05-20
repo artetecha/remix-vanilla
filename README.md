@@ -1,4 +1,4 @@
-# Three-card blog layout using Remix and Vanilla Framework
+# Three-card blog layout
 
 ## Goal
 
