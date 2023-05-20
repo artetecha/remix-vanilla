@@ -2,11 +2,7 @@
 
 ## Goal
 
-The exercise was to reproduce the three-card layout found (as I write) on the [home page of the Canonical Blog](https://canonical.com/blog) to present the "featured articles" section.
-
-## Requirements
-
-The main requirement for this exercise was to make use of Canonical's very own [Vanilla Framework](https://vanillaframework.io/).
+An exercise to reproduce a three-card layout to present a "featured articles" section.
 
 ## Tech used
 
